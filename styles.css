@@ -1,0 +1,19 @@
+
+h1 {
+    color: red;
+  }
+  
+  
+  article table tr td 
+  {
+    border-right: 1px solid black;
+
+  }
+  article table tr tr tr td{
+    border-right: 1px solid blue;
+    
+  }
+
+  tr:nth-child(1) td{
+    border-right: ;
+  }
